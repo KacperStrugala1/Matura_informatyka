@@ -1,0 +1,12 @@
+Styczen 2060.3
+Luty 2350.0
+Marzec 2400.5
+Kwiecien 2130.1
+Maj 2270.80
+Czerwiec 2600.0
+Lipiec 2340.2
+Sierpien 2120.5
+Wrzesien 2090.0
+Pazdziernik 2735.5
+Listopad 2015.5
+Grudzien 2510.2
